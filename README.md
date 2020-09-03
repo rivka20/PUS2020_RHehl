@@ -1,1 +1,1 @@
-# PUS2020_RHehl
+# PUS2020_RHehl I'm a behavioral health RN, biethicist, disaster scientist, and epistemologist interested in philosophy of language and decision theory. I work on questions like: how might we structure risk-analysis communication in order to bolster agent resilience. Since my work involves surveillance, data analysis, visualization, and policy guidance; I aim to refine my skill in all of these areas by way of this course. I seek to refine both my methods repertoire with regard to surveillance, analysis, and visualization and my technical coding skill.
